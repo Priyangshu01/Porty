@@ -69,7 +69,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-
             <Nav.Item>
               <Nav.Link
                 href="Blog.html"
